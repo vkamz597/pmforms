@@ -1,0 +1,5 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/vkamz597/pmforms
+build-by-default: true
+branches:
+- main
+...
